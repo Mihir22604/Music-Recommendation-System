@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 Music Recommender
 
 A web application that predicts music genres, extracts audio features, and recommends similar songs based on machine learning.
@@ -168,3 +169,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [TensorFlow](https://www.tensorflow.org/) for machine learning
 - [Flask](https://flask.palletsprojects.com/) for web framework
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) for YouTube downloads
+=======
+# Music-Recommendation-System
+>>>>>>> 45eeaee098eb7e6b4e14b1abf405e58fc2d99188
